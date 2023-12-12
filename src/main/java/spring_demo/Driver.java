@@ -13,5 +13,7 @@ public class Driver {
 		 Person p= (Person)ap.getBean("person");
 //		 p.display();
 		 ap.close();
+	// Shreerj Kadam 
+		 
 	}
 }
